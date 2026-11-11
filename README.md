@@ -1,31 +1,73 @@
-# Moacir Simas Neto
+<div align="center">
 
-Estudante de Ciência da Computação na UNIVALI (2025–2029), de São José, SC. Estagiário de suporte em TI na Graal Solutions desde janeiro de 2026.
+# Olá, eu sou o Moacir 👋
 
-Meu foco é **SQL, banco de dados e backend**. Estou em busca de **estágio em banco de dados, dados, backend ou QA**, em Florianópolis/São José ou remoto.
+**Estudante de Ciência da Computação na UNIVALI** · São José, SC 🇧🇷
 
-## Destaque: sistema de controle de estoque (Graal Solutions)
+**Dados & BI · SQL · Banco de Dados · Backend**
 
-Na empresa onde estagio, ajudei a desenvolver um sistema de controle de estoque. Ele já está no servidor de produção e em uso de teste no dia a dia da equipe, e torna a vinculação e a contagem de produtos mais práticas.
+Gosto de transformar problemas reais em projetos e entender como as coisas funcionam — da modelagem do banco à aplicação.
 
-- **Modelagem do banco de dados** em PostgreSQL, feita por mim.
-- **Definição das regras de negócio**, feita por mim.
-- Desenvolvido com apoio de IA. A integração no servidor foi feita por um colega da equipe.
+[LinkedIn](https://www.linkedin.com/in/moacir-simas-neto-669b0837a/) · [E-mail](mailto:moacir.neto2512@gmail.com)
 
-O código e os detalhes internos não são públicos, por pertencerem à empresa.
+</div>
 
-## Projetos
+---
 
-- **[VENTRY-REAL-V](https://github.com/MoacirSimas-neto/VENTRY-REAL-V)**: plataforma de eventos e venda de ingressos. Modelei o banco em MySQL (schema, dados de exemplo e procedures de compra com transação, controle de estoque e geração de ingressos individuais). O frontend em React/TypeScript foi feito com apoio de IA e do Lovable e roda com dados fictícios. A API REST ainda está planejada.
-- **[PitGarage](https://github.com/AVRONT/pitgarage)** (encerrado): sistema de gestão para uma oficina de carros e motos, com ordens de serviço, orçamento por item e portal do cliente. Fiz o levantamento de requisitos, a definição das regras de negócio e as telas, usando Lovable, Codex e VS Code.
+## Sobre mim
 
-## Tecnologias
+- 🎓 Cursando **Ciência da Computação na UNIVALI** (2025–2029).
+- 💼 Estagiário de **suporte em TI na Graal Solutions**, com experiência prática em melhorias de processos e sistemas internos.
+- 📊 Aprofundando meus estudos em **SQL analítico, bancos de dados, BI e análise de dados**.
+- 🛠️ Também desenvolvo projetos com **TypeScript, React, Node.js e ferramentas de IA**.
+- 🎯 Busco oportunidades de **estágio em Dados, Banco de Dados ou Backend**, na Grande Florianópolis ou remotamente.
 
-- **Banco de dados:** SQL, MySQL, PostgreSQL
-- **Linguagens e frontend:** TypeScript, React
-- **Ferramentas:** Git, Linux/WSL, VS Code, Lovable, Codex
+## Projetos em destaque
+
+| Projeto | O que estou desenvolvendo / demonstrando | Estado |
+| --- | --- | --- |
+| **[Ventry](https://github.com/MoacirSimas-neto/VENTRY-REAL-V)** | Plataforma de eventos com **modelagem MySQL, procedures, transações, controle de estoque e geração de ingressos**. Frontend React/TypeScript com dados fictícios; API REST ainda planejada. | Em desenvolvimento |
+| **[Trabalho M2 — Banco de Dados](https://github.com/MoacirSimas-neto/trabalho-m2-banco-dados)** | Projeto acadêmico em MySQL com **JOINs, subconsultas, agregações, índices, EXPLAIN e permissões**. | Acadêmico |
+| **[Cadastro de Obras de Museu](https://github.com/MoacirSimas-neto/trabalho-m2-programacao-web)** | Aplicação acadêmica em **HTML, CSS e JavaScript**, com validação de formulário e manipulação do DOM. | Acadêmico |
+
+### Em desenvolvimento: AI Dev World
+
+Um ambiente **local de desenvolvimento com agentes de IA**, combinando uma central de comando, escritório 2D em pixel art, terminais reais e orquestração de tarefas.
+
+**Tecnologias:** React, TypeScript, Node.js, Phaser, SQLite, WebSocket e integração Git.
+
+> Repositório privado por enquanto. Pretendo preparar uma demonstração e documentação pública depois da revisão do projeto.
+
+## Experiência prática
+
+### Sistema interno de controle de estoque — Graal Solutions
+
+Participei do desenvolvimento de um sistema para facilitar a vinculação e a contagem de produtos no trabalho.
+
+- Fiz a **modelagem do banco de dados em PostgreSQL**.
+- Defini **regras de negócio** para o funcionamento do sistema.
+- O desenvolvimento teve apoio de ferramentas de IA, e a integração no servidor foi realizada por um colega da equipe.
+- A aplicação foi disponibilizada no ambiente interno para uso e testes da equipe.
+
+*O código e os detalhes internos não são públicos, pois pertencem à empresa.*
+
+## Tecnologias e ferramentas
+
+**Banco de dados:** SQL · MySQL · PostgreSQL · MySQL Workbench
+
+**Desenvolvimento:** JavaScript · TypeScript · React · Node.js · HTML · CSS
+
+**Ferramentas:** Git · GitHub · VS Code · Linux / WSL · Windows
+
+**Estudando atualmente:** SQL analítico · BI · Análise de Dados · ETL
 
 ## Contato
 
-- LinkedIn: [moacir-simas-neto](https://www.linkedin.com/in/moacir-simas-neto-669b0837a/)
-- E-mail: moacir.neto2512@gmail.com
+Estou aberto a conversar sobre projetos, aprendizado e oportunidades de estágio em tecnologia, especialmente na área de dados e backend.
+
+- **LinkedIn:** [moacir-simas-neto](https://www.linkedin.com/in/moacir-simas-neto-669b0837a/)
+- **E-mail:** [moacir.neto2512@gmail.com](mailto:moacir.neto2512@gmail.com)
+
+---
+
+<div align="center"><sub>Projetos em evolução, aprendizado contínuo e decisões técnicas documentadas com transparência.</sub></div>
