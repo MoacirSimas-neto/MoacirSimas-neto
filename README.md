@@ -1,10 +1,17 @@
-# Moacir Simas Neto
+<div align="center">
+
+# 👋 Olá, eu sou o Moacir
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=Dados%2C+SQL+e+Backend;Construindo+o+AI+Dev+World;Aprendendo+e+criando+solucoes+reais" alt="Animação de digitação: Dados, SQL e Backend; Construindo o AI Dev World; Aprendendo e criando soluções reais" />
 
 **Ciência da Computação @ UNIVALI · São José/SC**
 
-**Dados, SQL e Backend** são as áreas em que quero me aprofundar. Também gosto de criar ferramentas de desenvolvimento, experimentar integrações com IA e transformar problemas do dia a dia em software.
+Gosto de criar ferramentas de desenvolvimento, experimentar integrações com IA e transformar problemas do dia a dia em software.
 
-[LinkedIn](https://www.linkedin.com/in/moacir-simas-neto-669b0837a/) · [E-mail](mailto:moacir.neto2512@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacir-simas-neto-669b0837a/)
+[![E--mail](https://img.shields.io/badge/E--mail-Contato-24292F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moacir.neto2512@gmail.com)
+
+</div>
 
 ---
 
@@ -42,7 +49,13 @@ O sistema foi disponibilizado no ambiente interno para uso e testes. A integraç
 
 Hoje estou concentrando meus estudos em **SQL analítico, modelagem de dados, bancos de dados, BI e análise de dados**, sem deixar de praticar desenvolvimento backend.
 
-**Banco de dados:** SQL · MySQL · PostgreSQL · MySQL Workbench  
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,js,ts,nodejs,react,git,github,vscode,linux&perline=11" alt="Tecnologias: MySQL, PostgreSQL, SQLite, JavaScript, TypeScript, Node.js, React, Git, GitHub, VS Code e Linux" />
+
+</div>
+
+**Banco de dados:** SQL · MySQL · PostgreSQL · SQLite · MySQL Workbench  
 **Desenvolvimento:** JavaScript · TypeScript · Node.js · React · HTML · CSS  
 **Ferramentas:** Git · GitHub · VS Code · Linux/WSL · Windows
 
