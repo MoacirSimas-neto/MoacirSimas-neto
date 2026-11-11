@@ -23,15 +23,11 @@ Sou estudante de Ciência da Computação e gosto de ir além de fazer o código
 
 Atualmente, meus principais interesses são **Dados e BI, SQL, desenvolvimento backend e aplicações de Inteligência Artificial**. Estou construindo projetos para praticar essas áreas e aprender com decisões de arquitetura, testes e problemas reais de implementação.
 
-```text
-moacir@dev:~$ focus
-  data      → SQL, modelagem, análise e BI
-  backend   → APIs, bancos de dados e arquitetura
-  ai        → agentes, ferramentas, contexto e automação
+<div align="center">
 
-moacir@dev:~$ currently_building
-  AI Dev World
-```
+<img width="100%" src="https://raw.githubusercontent.com/MoacirSimas-neto/MoacirSimas-neto/main/assets/terminal.svg" alt="Terminal animado com os interesses em Dados, Backend, IA e o projeto AI Dev World" />
+
+</div>
 
 ## 🚀 Projeto principal — AI Dev World
 
