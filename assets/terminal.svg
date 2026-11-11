@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-labelledby="title desc">
+<title id="title">Terminal animado de Moacir</title>
+<desc id="desc">Terminal que digita progressivamente os interesses: Dados, Backend, Inteligência Artificial e o projeto AI Dev World.</desc>
+<defs>
+  <linearGradient id="terminal-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#101B27"/>
+    <stop offset="100%" stop-color="#0A111B"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#4ADEB6"/>
+    <stop offset="100%" stop-color="#51BFF1"/>
+  </linearGradient>
+</defs>
+<style><![CDATA[
+  .text {font-family: 'Cascadia Code', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace;font-size:17px;fill:#D8E8F2}
+  .label {fill:#5EEAD4;font-weight:600}
+  .muted {fill:#94A3B8}
+  .title {font-family: 'Segoe UI', Arial, sans-serif;font-size:13px;fill:#A8BECD}
+  .line1 {animation: type1 12s steps(28,end) infinite}
+  .line2 {animation: type2 12s steps(38,end) infinite}
+  .line3 {animation: type3 12s steps(39,end) infinite}
+  .line4 {animation: type4 12s steps(41,end) infinite}
+  .line5 {animation: type5 12s steps(32,end) infinite}
+  .line6 {animation: type6 12s steps(22,end) infinite}
+  .cursor {animation: blink 1s step-end infinite}
+  @keyframes type1 {0%,2% {clip-path:inset(0 100% 0 0)} 12%,95% {clip-path:inset(0 0 0 0)} 100% {clip-path:inset(0 100% 0 0)}}
+  @keyframes type2 {0%,13% {clip-path:inset(0 100% 0 0)} 25%,95% {clip-path:inset(0 0 0 0)} 100% {clip-path:inset(0 100% 0 0)}}
+  @keyframes type3 {0%,26% {clip-path:inset(0 100% 0 0)} 38%,95% {clip-path:inset(0 0 0 0)} 100% {clip-path:inset(0 100% 0 0)}}
+  @keyframes type4 {0%,39% {clip-path:inset(0 100% 0 0)} 51%,95% {clip-path:inset(0 0 0 0)} 100% {clip-path:inset(0 100% 0 0)}}
+  @keyframes type5 {0%,54% {clip-path:inset(0 100% 0 0)} 65%,95% {clip-path:inset(0 0 0 0)} 100% {clip-path:inset(0 100% 0 0)}}
+  @keyframes type6 {0%,66% {clip-path:inset(0 100% 0 0)} 75%,95% {clip-path:inset(0 0 0 0)} 100% {clip-path:inset(0 100% 0 0)}}
+  @keyframes blink {0%,49% {opacity:1} 50%,100% {opacity:0}}
+  @media (prefers-reduced-motion: reduce) {
+    .line1,.line2,.line3,.line4,.line5,.line6,.cursor {animation:none!important;clip-path:none!important}
+  }
+]]></style>
+<rect x="1" y="1" width="898" height="308" rx="14" fill="url(#terminal-bg)" stroke="#244257" stroke-width="2"/>
+<rect x="2" y="2" width="896" height="45" rx="12" fill="#162535"/>
+<rect x="2" y="36" width="896" height="12" fill="#162535"/>
+<circle cx="25" cy="24" r="6" fill="#F87171"/>
+<circle cx="47" cy="24" r="6" fill="#FBBF24"/>
+<circle cx="69" cy="24" r="6" fill="#34D399"/>
+<text x="450" y="28" text-anchor="middle" class="title">moacir@dev — terminal</text>
+<path d="M18 48 H882" stroke="#2A4659" stroke-width="1"/>
+<text x="30" y="84" class="text line1"><tspan class="label">moacir@dev:~$</tspan><tspan> focus</tspan></text>
+<text x="44" y="118" class="text line2"><tspan fill="#6CCFF6">data</tspan><tspan fill="#A4B8C6">     → </tspan><tspan>SQL, modelagem, análise e BI</tspan></text>
+<text x="44" y="150" class="text line3"><tspan fill="#6CCFF6">backend</tspan><tspan fill="#A4B8C6">  → </tspan><tspan>APIs, bancos de dados e arquitetura</tspan></text>
+<text x="44" y="182" class="text line4"><tspan fill="#6CCFF6">ai</tspan><tspan fill="#A4B8C6">       → </tspan><tspan>agentes, contexto e automação</tspan></text>
+<text x="30" y="232" class="text line5"><tspan class="label">moacir@dev:~$</tspan><tspan> currently_building</tspan></text>
+<text x="44" y="265" class="text line6" fill="url(#accent)"><tspan fill="#5EEAD4">↳ </tspan><tspan fill="#D8E8F2">AI Dev World</tspan></text>
+<rect x="222" y="250" width="9" height="19" fill="#5EEAD4" class="cursor"/>
+</svg>
