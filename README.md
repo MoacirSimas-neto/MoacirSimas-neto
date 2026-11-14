@@ -14,6 +14,13 @@ Aplicativo desktop que coordena agentes de desenvolvimento em um escritório 2D.
 
 [![Escritório 2D do AI Dev World com os agentes da equipe](https://raw.githubusercontent.com/MoacirSimas-neto/AI-DEV-WORD/main/docs/screenshots/02-escritorio-2d.png)](https://github.com/MoacirSimas-neto/AI-DEV-WORD/blob/main/docs/PORTFOLIO-SHOWCASE.md)
 
+### Como funciona
+
+- **Missões supervisionadas.** O Tech Lead propõe etapas e dependências. A execução começa após aprovação do usuário em um diálogo nativo do Tauri.
+- **Equipe e terminais.** Arquiteto, Dev, QA e Tutor têm papéis distintos. Os agentes usam sessões de terminal reais no diretório do projeto.
+- **Backend local.** Um processo Node.js atende a interface via HTTP e WebSocket. O SQLite guarda conversas, missões e histórico.
+- **Git e observabilidade.** O painel mostra diffs e histórico. A trilha de eventos distingue o que o sistema observou, o que o agente declarou e o que ficou sem evidência. Na versão 1.0, o QA faz revisão estática.
+
 ## Projetos de dados e web
 
 | Projeto | O que desenvolvi |
@@ -24,4 +31,12 @@ Aplicativo desktop que coordena agentes de desenvolvimento em um escritório 2D.
 
 ## Experiência
 
-No estágio em suporte de TI na **Graal Solutions**, participei do desenvolvimento de um sistema interno para vincular e contar produtos. Modelei o banco PostgreSQL e defini regras de negócio. O sistema foi disponibilizado internamente para uso e testes.
+No estágio em suporte de TI na **Graal Solutions**, participei do desenvolvimento de um sistema interno para vincular e contar produtos. Minha contribuição foi a modelagem do banco PostgreSQL e a definição das regras de negócio. Trabalhei com outro integrante da equipe, que fez a integração no servidor. O sistema foi disponibilizado internamente para uso e testes.
+
+## O que estou aprofundando
+
+- **Dados e BI.** SQL analítico, modelagem relacional e análise de dados. Quero aplicar esses fundamentos a ETL com Python, qualidade de dados e dashboards.
+- **Backend.** Node.js, TypeScript e integração com bancos de dados. Quero aprofundar APIs, testes, arquitetura e observabilidade.
+- **IA aplicada.** Integração de CLIs, orquestração de agentes e gestão de contexto. Quero estudar RAG, embeddings e avaliação de agentes.
+
+No dia a dia, uso Git, GitHub e VS Code. Também tenho contato com Linux, Python, JavaScript e React.
