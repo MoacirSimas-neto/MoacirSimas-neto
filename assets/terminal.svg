@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-labelledby="title desc">
 <title id="title">Terminal animado de Moacir</title>
-<desc id="desc">Terminal que digita progressivamente os interesses: Dados, Backend, Inteligência Artificial e o projeto AI Dev World.</desc>
+<desc id="desc">Terminal que apresenta os interesses: AI Engineering, engenharia de software, automação e o projeto AI Dev World.</desc>
 <defs>
   <linearGradient id="terminal-bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#101B27"/>
@@ -43,9 +43,9 @@
 <text x="450" y="28" text-anchor="middle" class="title">moacir@dev — terminal</text>
 <path d="M18 48 H882" stroke="#2A4659" stroke-width="1"/>
 <text x="30" y="84" class="text line1"><tspan class="label">moacir@dev:~$</tspan><tspan> focus</tspan></text>
-<text x="44" y="118" class="text line2"><tspan fill="#6CCFF6">data</tspan><tspan fill="#A4B8C6">     → </tspan><tspan>SQL, modelagem, análise e BI</tspan></text>
-<text x="44" y="150" class="text line3"><tspan fill="#6CCFF6">backend</tspan><tspan fill="#A4B8C6">  → </tspan><tspan>APIs, bancos de dados e arquitetura</tspan></text>
-<text x="44" y="182" class="text line4"><tspan fill="#6CCFF6">ai</tspan><tspan fill="#A4B8C6">       → </tspan><tspan>agentes, contexto e automação</tspan></text>
+<text x="44" y="118" class="text line2"><tspan fill="#6CCFF6">ai</tspan><tspan fill="#A4B8C6">         → </tspan><tspan>agentes, LLMs e contexto</tspan></text>
+<text x="44" y="150" class="text line3"><tspan fill="#6CCFF6">software</tspan><tspan fill="#A4B8C6">   → </tspan><tspan>APIs, bancos de dados e arquitetura</tspan></text>
+<text x="44" y="182" class="text line4"><tspan fill="#6CCFF6">automation</tspan><tspan fill="#A4B8C6"> → </tspan><tspan>workflows e integração de sistemas</tspan></text>
 <text x="30" y="232" class="text line5"><tspan class="label">moacir@dev:~$</tspan><tspan> currently_building</tspan></text>
 <text x="44" y="265" class="text line6" fill="url(#accent)"><tspan fill="#5EEAD4">↳ </tspan><tspan fill="#D8E8F2">AI Dev World</tspan></text>
 <rect x="222" y="250" width="9" height="19" fill="#5EEAD4" class="cursor"/>
