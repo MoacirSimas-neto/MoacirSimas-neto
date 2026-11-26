@@ -80,6 +80,7 @@ O sistema foi implantado no ambiente interno da empresa. O código não é públ
 | Curso concluído | Instituição | Data |
 | :--- | :--- | :--- |
 | Claude Code 101 | Anthropic | Novembro de 2026 |
+| Claude Code in Action | Anthropic | Novembro de 2026 |
 
 Atualmente sigo uma trilha de estudos em AI Engineering. Novas credenciais serão adicionadas conforme a conclusão dos cursos.
 
